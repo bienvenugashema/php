@@ -14,7 +14,7 @@ function sendVerificationEmail($email, $token) {
         $mail->Host       = 'smtp.gmail.com';
         $mail->SMTPAuth   = true;
         $mail->Username   = 'bienvenugashema@gmail.com'; // Your Gmail
-        $mail->Password   = 'oiqq yene gmcz udco'; // Your App Password (Don't share it publicly)
+        $mail->Password   = 'your-app-password'; // Your App Password (Don't share it publicly)
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
         $mail->Port       = 587;
 
