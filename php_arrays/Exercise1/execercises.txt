@@ -1,0 +1,5 @@
+ 1. Create an html form to accept information about a book (such as book name, book author, publisher, iSBN number). Use html 5 to validate the input provided by the user. pass the information into a php program, which will then display the information back to the user.
+
+ 2. how does using arrays make a program more efficient?
+
+ 3. how are php arrays different from arrays in other programming languages
